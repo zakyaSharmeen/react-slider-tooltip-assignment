@@ -189,68 +189,6 @@ body{
 
 
 
- /* swiper */
- /* .swiper {
-  width: 292px;
-  height: 409px;
-}
-
-.swiper-slide {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 18px;
-  font-size: 22px;
-  font-weight: bold;
-  color: #fff;
-}
-
-
-.swiper-slide {
-  background-color: white;
-  color: black;
-  text-align: center;
-  padding: 20px;
-    border-radius: 10px;
-  
-}
-
-.swiper-slide img{
-height: 120px;
-width: 120px;  
-
-border-radius: 50%;
-}
-.swiper-slide h2{
-  font-size: 24px;
-  font-weight: bold;
-}
-
-.swiper-slide  span{
-  
-  font-size: 12px;
-}
-
-.swiper-slide p.margin-top{
-  margin-top: 30px;
-}
-  
-.swiper-slide div.card-slider > div> div{
-  display: flex;
-}
-
-
-.swiper-slide  p{
-  margin-bottom: 8px;
-    border: 1px solid grey;
-    border-radius: 8px;
-    padding: 8px;
-    font-size: 14px;
-    margin-right: 8px;
- }
-
- */
-
 
 
  /* slider */
